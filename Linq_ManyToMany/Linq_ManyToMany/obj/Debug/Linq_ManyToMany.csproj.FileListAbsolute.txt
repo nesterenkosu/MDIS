@@ -1,0 +1,9 @@
+C:\Users\nesterenko_sy\source\repos\Linq_ManyToMany\Linq_ManyToMany\bin\Debug\Database1.mdf
+C:\Users\nesterenko_sy\source\repos\Linq_ManyToMany\Linq_ManyToMany\bin\Debug\Database1_log.ldf
+C:\Users\nesterenko_sy\source\repos\Linq_ManyToMany\Linq_ManyToMany\bin\Debug\Linq_ManyToMany.exe.config
+C:\Users\nesterenko_sy\source\repos\Linq_ManyToMany\Linq_ManyToMany\bin\Debug\Linq_ManyToMany.exe
+C:\Users\nesterenko_sy\source\repos\Linq_ManyToMany\Linq_ManyToMany\bin\Debug\Linq_ManyToMany.pdb
+C:\Users\nesterenko_sy\source\repos\Linq_ManyToMany\Linq_ManyToMany\obj\Debug\Linq_ManyToMany.csprojAssemblyReference.cache
+C:\Users\nesterenko_sy\source\repos\Linq_ManyToMany\Linq_ManyToMany\obj\Debug\Linq_ManyToMany.csproj.CoreCompileInputs.cache
+C:\Users\nesterenko_sy\source\repos\Linq_ManyToMany\Linq_ManyToMany\obj\Debug\Linq_ManyToMany.exe
+C:\Users\nesterenko_sy\source\repos\Linq_ManyToMany\Linq_ManyToMany\obj\Debug\Linq_ManyToMany.pdb

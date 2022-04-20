@@ -1,0 +1,9 @@
+C:\Users\nesterenko_sy\source\repos\LinqMultitable\LinqMultitable\bin\Debug\Database1.mdf
+C:\Users\nesterenko_sy\source\repos\LinqMultitable\LinqMultitable\bin\Debug\Database1_log.ldf
+C:\Users\nesterenko_sy\source\repos\LinqMultitable\LinqMultitable\bin\Debug\LinqMultitable.exe.config
+C:\Users\nesterenko_sy\source\repos\LinqMultitable\LinqMultitable\bin\Debug\LinqMultitable.exe
+C:\Users\nesterenko_sy\source\repos\LinqMultitable\LinqMultitable\bin\Debug\LinqMultitable.pdb
+C:\Users\nesterenko_sy\source\repos\LinqMultitable\LinqMultitable\obj\Debug\LinqMultitable.csprojAssemblyReference.cache
+C:\Users\nesterenko_sy\source\repos\LinqMultitable\LinqMultitable\obj\Debug\LinqMultitable.csproj.CoreCompileInputs.cache
+C:\Users\nesterenko_sy\source\repos\LinqMultitable\LinqMultitable\obj\Debug\LinqMultitable.exe
+C:\Users\nesterenko_sy\source\repos\LinqMultitable\LinqMultitable\obj\Debug\LinqMultitable.pdb
